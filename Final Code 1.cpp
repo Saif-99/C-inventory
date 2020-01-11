@@ -1,10 +1,3 @@
-/*Project members: 
-Name						Matric
-Saif Al Faied	  			1828615
-Borhan Md Uddin				1822665
-Khan Md Ferdous Ahmed		1825869
-Obeid Salem Ahmed Bashwar 	1813179
-*/
 
 #include<iostream>
 using namespace std;
